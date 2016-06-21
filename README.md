@@ -115,6 +115,7 @@ http://discuss.cocos2d-x.org/t/sdkbox-plug-in-for-cocos-creator/30205
 <br/>
 https://github.com/yinjimmy/ccc_iap_demo
 <br/>
+<br/>
 Special thanks to:
 <br>
  <a href="http://discuss.cocos2d-x.org/users/yinjimmy/">yinjimmy</a>

@@ -27,7 +27,7 @@ with
 	#include "PluginFacebookJS.hpp"
 	#include "PluginFacebookJSHelper.h"
 	#include "PluginFacebookJS.hpp"
-	#include “PluginFacebookJSHelper.h"
+	#include "PluginFacebookJSHelper.h"
 ```
 and into the <b>bool AppDelegate::applicationDidFinishLaunching()</b> method before the instruction <b>sc->start();</b> add
 ```objectivec

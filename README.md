@@ -112,7 +112,8 @@ http://docs.sdkbox.com/en/plugins/facebook/v2-js
 http://discuss.cocos2d-x.org/t/sdkbox-unfortunately-again/30229
 <br/>
 http://discuss.cocos2d-x.org/t/sdkbox-plug-in-for-cocos-creator/30205
-
+<br/>
+https://github.com/yinjimmy/ccc_iap_demo
 <br/>
 Special thanks to:
 <br>
